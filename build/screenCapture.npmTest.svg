@@ -1,0 +1,172 @@
+<svg height="2702" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="2702" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26"></tspan>
+<tspan x="10" y="42">&gt; npmdoc-spritesmith@0.0.1 test /home/travis/build/npmdoc/node-npmdoc-spritesmith</tspan>
+<tspan x="10" y="58">&gt; (set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)</tspan>
+<tspan x="10" y="74"></tspan>
+<tspan x="10" y="90"></tspan>
+<tspan x="10" y="106">[MODE_BUILD=npmTest] - 2017-04-07T23:11:27Z - npm-testing /home/travis/build/npmdoc/node-npmdoc-\</tspan>
+<tspan x="10" y="122">spritesmith</tspan>
+<tspan x="10" y="138"></tspan>
+<tspan x="10" y="154"></tspan>
+<tspan x="10" y="170">covering $ /home/travis/.nvm/versions/node/v6.10.2/bin/node /home/travis/build/npmdoc/node-npmdo\</tspan>
+<tspan x="10" y="186">c-spritesmith/test.js</tspan>
+<tspan x="10" y="202">merging file:///home/travis/build/npmdoc/node-npmdoc-spritesmith/tmp/build/test-report.json to t\</tspan>
+<tspan x="10" y="218">est-report</tspan>
+<tspan x="10" y="234">&gt; server listening on http-port 60776</tspan>
+<tspan x="10" y="250">created apidoc file:///home/travis/build/npmdoc/node-npmdoc-spritesmith/tmp/build/apidoc.html</tspan>
+<tspan x="10" y="266"></tspan>
+<tspan x="10" y="282"></tspan>
+<tspan x="10" y="298">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-spritesmith/tmp/\</tspan>
+<tspan x="10" y="314">electron.15b4aafd14a0.4ad6249a79fc4.html</tspan>
+<tspan x="10" y="330"></tspan>
+<tspan x="10" y="346">[node test-case 1 of 6 passed] - testCase_buildLib_default</tspan>
+<tspan x="10" y="362">[node test-case 2 of 6 passed] - testCase_buildReadme_default</tspan>
+<tspan x="10" y="378">[node test-case 3 of 6 passed] - testCase_buildTest_default</tspan>
+<tspan x="10" y="394"></tspan>
+<tspan x="10" y="410">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-spritesmith/tmp/\</tspan>
+<tspan x="10" y="426">electron.15b4aafd16e0.c8cf8fc1d1cea.html</tspan>
+<tspan x="10" y="442"></tspan>
+<tspan x="10" y="458">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="474">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="490">32</tspan>
+<tspan x="10" y="506">32</tspan>
+<tspan x="10" y="522">{</tspan>
+<tspan x="10" y="538">  "/home/travis/build/npmdoc/node-npmdoc-spritesmith/node_modules/spritesmith/docs/fork.png": {</tspan>
+<tspan x="10" y="554">    "x": 0,</tspan>
+<tspan x="10" y="570">    "y": 0,</tspan>
+<tspan x="10" y="586">    "width": 32,</tspan>
+<tspan x="10" y="602">    "height": 32</tspan>
+<tspan x="10" y="618">  },</tspan>
+<tspan x="10" y="634">  "/home/travis/build/npmdoc/node-npmdoc-spritesmith/node_modules/spritesmith/docs/github.png": \</tspan>
+<tspan x="10" y="650">{</tspan>
+<tspan x="10" y="666">    "x": 32,</tspan>
+<tspan x="10" y="682">    "y": 0,</tspan>
+<tspan x="10" y="698">    "width": 32,</tspan>
+<tspan x="10" y="714">    "height": 32</tspan>
+<tspan x="10" y="730">  },</tspan>
+<tspan x="10" y="746">  "/home/travis/build/npmdoc/node-npmdoc-spritesmith/node_modules/spritesmith/docs/twitter.png":\</tspan>
+<tspan x="10" y="762"> {</tspan>
+<tspan x="10" y="778">    "x": 0,</tspan>
+<tspan x="10" y="794">    "y": 32,</tspan>
+<tspan x="10" y="810">    "width": 32,</tspan>
+<tspan x="10" y="826">    "height": 32</tspan>
+<tspan x="10" y="842">  }</tspan>
+<tspan x="10" y="858">}</tspan>
+<tspan x="10" y="874">{</tspan>
+<tspan x="10" y="890">  "width": 64,</tspan>
+<tspan x="10" y="906">  "height": 64</tspan>
+<tspan x="10" y="922">}</tspan>
+<tspan x="10" y="938">{</tspan>
+<tspan x="10" y="954">  "/home/travis/build/npmdoc/node-npmdoc-spritesmith/node_modules/spritesmith/docs/fork.png": {</tspan>
+<tspan x="10" y="970">    "x": 0,</tspan>
+<tspan x="10" y="986">    "y": 0,</tspan>
+<tspan x="10" y="1002">    "width": 32,</tspan>
+<tspan x="10" y="1018">    "height": 32</tspan>
+<tspan x="10" y="1034">  },</tspan>
+<tspan x="10" y="1050">  "/home/travis/build/npmdoc/node-npmdoc-spritesmith/node_modules/spritesmith/docs/github.png": \</tspan>
+<tspan x="10" y="1066">{</tspan>
+<tspan x="10" y="1082">    "x": 32,</tspan>
+<tspan x="10" y="1098">    "y": 0,</tspan>
+<tspan x="10" y="1114">    "width": 32,</tspan>
+<tspan x="10" y="1130">    "height": 32</tspan>
+<tspan x="10" y="1146">  },</tspan>
+<tspan x="10" y="1162">  "/home/travis/build/npmdoc/node-npmdoc-spritesmith/node_modules/spritesmith/docs/twitter.png":\</tspan>
+<tspan x="10" y="1178"> {</tspan>
+<tspan x="10" y="1194">    "x": 0,</tspan>
+<tspan x="10" y="1210">    "y": 32,</tspan>
+<tspan x="10" y="1226">    "width": 32,</tspan>
+<tspan x="10" y="1242">    "height": 32</tspan>
+<tspan x="10" y="1258">  }</tspan>
+<tspan x="10" y="1274">}</tspan>
+<tspan x="10" y="1290">merging file:///home/travis/build/npmdoc/node-npmdoc-spritesmith/tmp/build/test-report.json to t\</tspan>
+<tspan x="10" y="1306">est-report</tspan>
+<tspan x="10" y="1322">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="1338">[4947:0407/231129:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="1354">[4947:0407/231129:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="1370">&gt; server listening on http-port 45863</tspan>
+<tspan x="10" y="1386">[4984:0407/231129:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="1402">in process gpu-process. </tspan>
+<tspan x="10" y="1418">[4947:0407/231129:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="1434">merging file:///home/travis/build/npmdoc/node-npmdoc-spritesmith/tmp/build/test-report.json to t\</tspan>
+<tspan x="10" y="1450">est-report</tspan>
+<tspan x="10" y="1466">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="1482">[4951:0407/231129:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="1498">[4951:0407/231129:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="1514">[5019:0407/231129:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="1530">in process gpu-process. </tspan>
+<tspan x="10" y="1546">[4951:0407/231129:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="1562"></tspan>
+<tspan x="10" y="1578">browserTest - opened url /home/travis/build/npmdoc/node-npmdoc-spritesmith/tmp/build/apidoc.html</tspan>
+<tspan x="10" y="1594"></tspan>
+<tspan x="10" y="1610"></tspan>
+<tspan x="10" y="1626">browserTest - opened url http://127.0.0.1:60776?modeTest=1</tspan>
+<tspan x="10" y="1642"></tspan>
+<tspan x="10" y="1658">[4951:0407/231131:INFO:CONSOLE(249)] "----------|-----------|-----------|-----------|-----------\</tspan>
+<tspan x="10" y="1674">|</tspan>
+<tspan x="10" y="1690">File      |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
+<tspan x="10" y="1706">----------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="1722">----------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="1738">All files |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="1754">----------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="1770">", source: file:///home/travis/build/npmdoc/node-npmdoc-spritesmith/tmp/electron.15b4aafd16e0.c8\</tspan>
+<tspan x="10" y="1786">cf8fc1d1cea.html (249)</tspan>
+<tspan x="10" y="1802">[4951:0407/231131:INFO:CONSOLE(249)] "created coverage file:///tmp/build/coverage.html/index.htm\</tspan>
+<tspan x="10" y="1818">l", source: file:///home/travis/build/npmdoc/node-npmdoc-spritesmith/tmp/electron.15b4aafd16e0.c\</tspan>
+<tspan x="10" y="1834">8cf8fc1d1cea.html (249)</tspan>
+<tspan x="10" y="1850">[node test-case 4 of 6 passed] - testCase_buildApp_default</tspan>
+<tspan x="10" y="1866"></tspan>
+<tspan x="10" y="1882">browserTest - exit-code 1 - /home/travis/build/npmdoc/node-npmdoc-spritesmith/tmp/build/apidoc.h\</tspan>
+<tspan x="10" y="1898">tml</tspan>
+<tspan x="10" y="1914"></tspan>
+<tspan x="10" y="1930">[node test-case 5 of 6 passed] - testCase_buildApidoc_default</tspan>
+<tspan x="10" y="1946"></tspan>
+<tspan x="10" y="1962">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-spritesmith/tmp\</tspan>
+<tspan x="10" y="1978">/build/screenCapture.%2F.png</tspan>
+<tspan x="10" y="1994"></tspan>
+<tspan x="10" y="2010">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-spritesmith/tmp\</tspan>
+<tspan x="10" y="2026">/build/screenCapture.%2F.html</tspan>
+<tspan x="10" y="2042"></tspan>
+<tspan x="10" y="2058">browserTest - exit-code 0 - http://127.0.0.1:60776?modeTest=1</tspan>
+<tspan x="10" y="2074"></tspan>
+<tspan x="10" y="2090"></tspan>
+<tspan x="10" y="2106">browserTest - merged coverage from /home/travis/build/npmdoc/node-npmdoc-spritesmith/tmp/coverag\</tspan>
+<tspan x="10" y="2122">e.%2F.json</tspan>
+<tspan x="10" y="2138"></tspan>
+<tspan x="10" y="2154"></tspan>
+<tspan x="10" y="2170">browserTest - merging test-report from /home/travis/build/npmdoc/node-npmdoc-spritesmith/tmp/tes\</tspan>
+<tspan x="10" y="2186">t-report.%2F.json</tspan>
+<tspan x="10" y="2202"></tspan>
+<tspan x="10" y="2218">[node test-case 6 of 6 passed] - testCase_webpage_default</tspan>
+<tspan x="10" y="2234">--------------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="2250">File                            |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
+<tspan x="10" y="2266">--------------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="2282">   node-npmdoc-spritesmith/     |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="2298">      example.js                |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="2314">      lib.npmdoc_spritesmith.js |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="2330">      test.js                   |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="2346">--------------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="2362">All files                       |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="2378">--------------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="2394"></tspan>
+<tspan x="10" y="2410">created coverage file:///home/travis/build/npmdoc/node-npmdoc-spritesmith/tmp/build/coverage.htm\</tspan>
+<tspan x="10" y="2426">l/index.html</tspan>
+<tspan x="10" y="2442">merging file:///home/travis/build/npmdoc/node-npmdoc-spritesmith/tmp/build/test-report.json to t\</tspan>
+<tspan x="10" y="2458">est-report</tspan>
+<tspan x="10" y="2474"></tspan>
+<tspan x="10" y="2490">-------------------------------------------------------</tspan>
+<tspan x="10" y="2506">| test-report - buildNpmdoc - node - linux v6.10.2 - 2017-04-07T23:11:06.222Z</tspan>
+<tspan x="10" y="2522">|   36871 ms            0 failed        6 passed      |</tspan>
+<tspan x="10" y="2538">-------------------------------------------------------</tspan>
+<tspan x="10" y="2554"></tspan>
+<tspan x="10" y="2570">created test-report file:///home/travis/build/npmdoc/node-npmdoc-spritesmith/tmp/build/test-repo\</tspan>
+<tspan x="10" y="2586">rt.html</tspan>
+<tspan x="10" y="2602"></tspan>
+<tspan x="10" y="2618"></tspan>
+<tspan x="10" y="2634">npmTest - 0 failed tests</tspan>
+<tspan x="10" y="2650"></tspan>
+<tspan x="10" y="2666"></tspan>
+<tspan x="10" y="2682">[MODE_BUILD=npmTest] - 2017-04-07T23:11:46Z - EXIT_CODE - 0</tspan>
+</text>
+</svg>

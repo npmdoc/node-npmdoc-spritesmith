@@ -1,0 +1,51 @@
+<svg height="766" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="766" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-07 23:12:07 +0000    88673 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-07 23:12:07 +0000     3552 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-07 23:12:07 +0000     1052 bytes  LICENSE-MIT</tspan>
+<tspan x="10" y="74">  3.  2017-04-07 23:12:07 +0000    17292 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-07 23:12:07 +0000      537 bytes  docs/alt-diagonal.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-07 23:12:07 +0000     1559 bytes  docs/alt-diagonal.png</tspan>
+<tspan x="10" y="122">  6.  2017-04-07 23:12:07 +0000      558 bytes  docs/canvassmith.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-07 23:12:07 +0000     1285 bytes  docs/canvassmith.png</tspan>
+<tspan x="10" y="154">  8.  2017-04-07 23:12:07 +0000       97 bytes  docs/equals.png</tspan>
+<tspan x="10" y="170">  9.  2017-04-07 23:12:07 +0000      515 bytes  docs/fork.png</tspan>
+<tspan x="10" y="186"> 10.  2017-04-07 23:12:07 +0000      927 bytes  docs/getting-started-stream.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-07 23:12:07 +0000     1471 bytes  docs/getting-started-stream.png</tspan>
+<tspan x="10" y="218"> 12.  2017-04-07 23:12:07 +0000      482 bytes  docs/github.png</tspan>
+<tspan x="10" y="234"> 13.  2017-04-07 23:12:07 +0000      565 bytes  docs/padding.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-07 23:12:07 +0000     1510 bytes  docs/padding.png</tspan>
+<tspan x="10" y="266"> 15.  2017-04-07 23:12:07 +0000      108 bytes  docs/plus.png</tspan>
+<tspan x="10" y="282"> 16.  2017-04-07 23:12:07 +0000      530 bytes  docs/spritesheet.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-07 23:12:07 +0000     1471 bytes  docs/spritesheet.png</tspan>
+<tspan x="10" y="314"> 18.  2017-04-07 23:12:07 +0000      434 bytes  docs/twitter.png</tspan>
+<tspan x="10" y="330"> 19.  2017-04-07 23:12:07 +0000     3046 bytes  package.json</tspan>
+<tspan x="10" y="346"> 20.  2017-04-07 23:12:07 +0000      315 bytes  src-test/expected_files/binaryTree.coordinates.j\</tspan>
+<tspan x="10" y="362">son</tspan>
+<tspan x="10" y="378"> 21.  2017-04-07 23:12:07 +0000     5997 bytes  src-test/expected_files/binaryTree.phantomjs.png</tspan>
+<tspan x="10" y="394"> 22.  2017-04-07 23:12:07 +0000     5992 bytes  src-test/expected_files/binaryTree.pixelsmith.pn\</tspan>
+<tspan x="10" y="410">g</tspan>
+<tspan x="10" y="426"> 23.  2017-04-07 23:12:07 +0000       39 bytes  src-test/expected_files/binaryTree.properties.js\</tspan>
+<tspan x="10" y="442">on</tspan>
+<tspan x="10" y="458"> 24.  2017-04-07 23:12:07 +0000       32 bytes  src-test/expected_files/empty.properties.json</tspan>
+<tspan x="10" y="474"> 25.  2017-04-07 23:12:07 +0000      314 bytes  src-test/expected_files/leftRight.coordinates.js\</tspan>
+<tspan x="10" y="490">on</tspan>
+<tspan x="10" y="506"> 26.  2017-04-07 23:12:07 +0000     6045 bytes  src-test/expected_files/leftRight.pixelsmith.png</tspan>
+<tspan x="10" y="522"> 27.  2017-04-07 23:12:07 +0000       36 bytes  src-test/expected_files/leftRight.properties.jso\</tspan>
+<tspan x="10" y="538">n</tspan>
+<tspan x="10" y="554"> 28.  2017-04-07 23:12:07 +0000      316 bytes  src-test/expected_files/padding.coordinates.json</tspan>
+<tspan x="10" y="570"> 29.  2017-04-07 23:12:07 +0000     5925 bytes  src-test/expected_files/padding.pixelsmith.png</tspan>
+<tspan x="10" y="586"> 30.  2017-04-07 23:12:07 +0000       36 bytes  src-test/expected_files/padding.properties.json</tspan>
+<tspan x="10" y="602"> 31.  2017-04-07 23:12:07 +0000      314 bytes  src-test/expected_files/unsorted.coordinates.jso\</tspan>
+<tspan x="10" y="618">n</tspan>
+<tspan x="10" y="634"> 32.  2017-04-07 23:12:07 +0000     6100 bytes  src-test/expected_files/unsorted.pixelsmith.png</tspan>
+<tspan x="10" y="650"> 33.  2017-04-07 23:12:07 +0000       39 bytes  src-test/expected_files/unsorted.properties.json</tspan>
+<tspan x="10" y="666"> 34.  2017-04-07 23:12:07 +0000     8873 bytes  src-test/smith_test.js</tspan>
+<tspan x="10" y="682"> 35.  2017-04-07 23:12:07 +0000      146 bytes  src-test/test_sprites/malformed.png</tspan>
+<tspan x="10" y="698"> 36.  2017-04-07 23:12:07 +0000      388 bytes  src-test/test_sprites/sprite1.png</tspan>
+<tspan x="10" y="714"> 37.  2017-04-07 23:12:07 +0000     2050 bytes  src-test/test_sprites/sprite2.jpg</tspan>
+<tspan x="10" y="730"> 38.  2017-04-07 23:12:07 +0000     1559 bytes  src-test/test_sprites/sprite3.png</tspan>
+<tspan x="10" y="746"> 39.  2017-04-07 23:12:07 +0000     7166 bytes  src/smith.js</tspan>
+</text>
+</svg>
