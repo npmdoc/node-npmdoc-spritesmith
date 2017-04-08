@@ -3,7 +3,7 @@
 
 [![NPM](https://nodei.co/npm/spritesmith.png?downloads=true)](https://www.npmjs.com/package/spritesmith)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-spritesmith/build/screenCapture.buildNpmdoc.browser.%2Fhome%2Ftravis%2Fbuild%2Fnpmdoc%2Fnode-npmdoc-spritesmith%2Ftmp%2Fbuild%2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-spritesmith/build/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-spritesmith/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-spritesmith%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-spritesmith/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-spritesmith/build/screenCapture.npmPackageListing.svg)
 
