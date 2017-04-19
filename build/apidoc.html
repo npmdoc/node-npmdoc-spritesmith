@@ -51,7 +51,7 @@
 
         href="https://github.com/Ensighten/spritesmith"
 
-    >spritesmith (v3.1.0)</a>
+    >spritesmith (v3.1.1)</a>
 </h1>
 <h4>Utility that takes images and creates a spritesheet with JSON sprite data</h4>
 <div class="apidocSectionDiv"><a
@@ -60,6 +60,15 @@
 ><h1>table of contents</h1></a><ol>
 
     <li class="apidocModuleLi"><a href="#apidoc.module.spritesmith">module spritesmith</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.spritesmith.spritesmith">
+            function <span class="apidocSignatureSpan"></span>spritesmith
+            <span class="apidocSignatureSpan">(params)</span>
+            </a>
+
+        </li>
 
         <li>
 
@@ -76,6 +85,65 @@
 
 <div class="apidocSectionDiv">
 <h1><a href="#apidoc.module.spritesmith" id="apidoc.module.spritesmith">module spritesmith</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.spritesmith.spritesmith" id="apidoc.element.spritesmith.spritesmith">
+        function <span class="apidocSignatureSpan"></span>spritesmith
+        <span class="apidocSignatureSpan">(params)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Spritesmith(params) {
+  // Process our parameters
+  params = params || {};
+  var engineName = params.engine || engineDefault;
+  var Engine = engineName;
+
+  // If the engine is a `require` path, attempt to load it
+  if (typeof engineName === &#x27;string&#x27;) {
+    // Attempt to resolve the engine to verify it is installed at all
+    try {
+      require.resolve(engineName);
+    } catch (err) {
+      console.error(&#x27;Attempted to find spritesmith engine &#x22;&#x27; + engineName + &#x27;&#x22; but could not.&#x27;);
+      console.error(&#x27;Please verify you have installed &#x22;&#x27; + engineName + &#x27;&#x22; and saved it to your `package.json`&#x27;);
+      console.error(&#x27;&#x27;);
+      console.error(&#x27;    npm install &#x27; + engineName + &#x27; --save-dev&#x27;);
+      console.error(&#x27;&#x27;);
+      throw err;
+    }
+
+    // Attempt to load the engine
+    try {
+      Engine = require(engineName);
+      if (typeof Engine !== &#x27;function&#x27;) {
+        Engine = Engine.default;
+      }
+    } catch (err) {
+      console.error(&#x27;Attempted to load spritesmith engine &#x22;&#x27; + engineName + &#x27;&#x22; but could not.&#x27;);
+      console.error(&#x27;Please verify you have installed its dependencies. Documentation should be available at &#x27;);
+      console.error(&#x27;&#x27;);
+      // TODO: Consider using pkg.homepage and pkg.repository
+      console.error(&#x27;    https://npm.im/&#x27; + encodeURIComponent(engineName));
+      console.error(&#x27;&#x27;);
+      throw err;
+    }
+  }
+
+  // Verify we are on a matching `specVersion`
+  if (!semver.satisfies(Engine.specVersion, SPEC_VERSION_RANGE)) {
+    throw new Error(&#x27;Expected `engine` to have `specVersion` within &#x22;&#x27; + SPEC_VERSION_RANGE + &#x27;&#x22; &#x27; +
+      &#x27;but it was &#x22;&#x27; + Engine.specVersion + &#x27;&#x22;. Please verify you are on the latest version of your engine: &#x27; +
+      &#x27;`npm install my-engine@latest`&#x27;);
+  }
+
+  // Create and save our engine for later
+  this.engine = new Engine(params.engineOpts || {});
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
 
 
     <h2>
